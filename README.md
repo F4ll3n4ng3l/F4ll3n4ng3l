@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F4ll3n4ng3l
 - 👀 I’m interested in creating games
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning game development
 - 💞️ I’m not looking to collaborate yet...
 - 💋 Thanks for your interest!
 
